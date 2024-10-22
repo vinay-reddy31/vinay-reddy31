@@ -19,3 +19,6 @@
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
+
+
+[![An image of @vinayreddy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayreddy)](https://holopin.io/@vinayreddy)
