@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay-reddy31&label=Profile%20views&color=0e75b6&style=flat" alt="vinay-reddy31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay-reddy31" alt="vinay-reddy31" /></a> </p>
-
 - 🌱 I’m currently learning **Cloud, Ml & Data Science**
 
 - 👯 I’m looking to collaborate on **solving Real-world Problems**
