@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Teja</h1>
-<h3 align="center">A passionate student</h3>
+<h3 align="center">A passionate Tech Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://hemangnakarani.github.io/astro/ssa.DaGceUPd_Z2wtw7E.svg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay-reddy31&label=Profile%20views&color=0e75b6&style=flat" alt="vinay-reddy31" /> </p>
